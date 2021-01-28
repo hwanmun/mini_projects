@@ -10,4 +10,4 @@ These are my mini-projects to implement and summarize learned materials in machi
 * classifier_CNN.ipynb : Implementation of CNN classifier for EMNIST dataset.
 * generator_CNN.ipynb : Implementation of generator for EMNIST dataset with deep convolutional GAN.
 
-by Hwanmun Kim (kim.hwanmun@gmail.com)
+by Hwanmun Kim (kim.hwanmun@gmail.com, linkedin.com/in/hwanmun/)
