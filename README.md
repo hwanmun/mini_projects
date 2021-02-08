@@ -4,6 +4,7 @@ These are my mini-projects to implement and summarize learned materials in machi
 
 ### List of notes
 * dataset_collection_WHO.ipynb : Collect JSON data from WHO website and covert it into csv file with pandas.
+* SQL query: Collect user data of Physics Stack Exchange through SQL query.
 * linear_regression_WHO.ipynb : Review and demonstration of linear regression with WHO dataset.
 * logistic_regression_WHO.ipynb : Review and demonstration of logistic regression with WHO dataset.
 * hypothesis_testing.ipynb : Review of hypothesis testing and demonstration of A/B testing and linear regression testing.
