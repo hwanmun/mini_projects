@@ -9,6 +9,7 @@ These are my mini-projects to implement and summarize learned materials in machi
 * logistic_regression_WHO.ipynb : Review and demonstration of logistic regression with WHO dataset.
 * hypothesis_testing.ipynb : Review of hypothesis testing and demonstration of A/B testing and linear regression testing.
 * anomaly_detection_PCA.ipynb : Review and demonstration of anomaly detection and PCA with credit card fraud dataset.
+* anomaly_detection_autoencoder.ipynb : Review and demonstration of anomaly detection using autoencoder with Physics Exchange user dataset.
 * classifier_CNN.ipynb : Implementation of CNN classifier for EMNIST dataset.
 * generator_CNN.ipynb : Implementation of generator for EMNIST dataset with deep convolutional GAN.
 
